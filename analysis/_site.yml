@@ -1,17 +1,17 @@
 name: "course_Zotero"
 output_dir: ../docs
 navbar:
-  title: "course_Zotero"
+  title: "Quản lý và trích dẫn tài liệu tham khảo với Zotero"
   left:
-  - text: Home
+  - text: "Giới thiệu"
     href: index.html
-  - text: About
-    href: about.html
+  - text: "Khoá 01-2021"
+    href: K202101.html
   - text: License
     href: license.html
 output:
   workflowr::wflow_html:
     toc: yes
     toc_float: yes
-    theme: cosmo
+    theme: cerulean
     highlight: textmate

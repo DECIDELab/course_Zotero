@@ -1,0 +1,21 @@
+---
+title: "Khóa 2021"
+date: " 2020-01-05 (cập nhật: `r Sys.Date()`)"
+output:
+    html_document:
+      theme: cerulean
+      toc: yes
+      toc_float: yes
+editor_options:
+  chunk_output_type: console
+---
+
+## Giới thiệu
+
+## Chương trình
+
+## Tài liệu
+
+### Hướng dẫn cài đặt Zotero
+
+### Hướng dẫn sử dụng 
