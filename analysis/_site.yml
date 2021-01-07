@@ -1,14 +1,18 @@
-name: "course_Zotero"
+name: course_Zotero
 output_dir: ../docs
 navbar:
-  title: "Quản lý và trích dẫn tài liệu tham khảo với Zotero"
+  title: Quản lý và trích dẫn tài liệu tham khảo với Zotero
   left:
-  - text: "Giới thiệu"
+  - text: Giới thiệu
     href: index.html
-  - text: "Khoá 01-2021"
+  - text: Khoá 01-2021
     href: K202101.html
   - text: License
     href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/decidelab/course_Zotero
 output:
   workflowr::wflow_html:
     toc: yes
